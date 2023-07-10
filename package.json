@@ -1,0 +1,30 @@
+{
+  "name": "lrmn7",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier src/**/* -w"
+  },
+  "dependencies": {
+    "next": "13.4.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.1",
+    "@types/prettier": "^2.7.3",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "@types/spotify-web-api-node": "^5.0.7",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.9",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^3.0.0",
+    "typescript": "5.1.6"
+  }
+}
