@@ -22,7 +22,7 @@
     "@types/react-dom": "18.2.7",
     "@types/spotify-web-api-node": "^5.0.7",
     "eslint": "8.47.0",
-    "eslint-config-next": "13.4.13",
+    "eslint-config-next": "13.4.16",
     "eslint-config-prettier": "^8.10.0",
     "prettier": "^3.0.0",
     "typescript": "5.1.6"
