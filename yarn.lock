@@ -213,10 +213,10 @@
   resolved "https://registry.yarnpkg.com/@types/spotify-api/-/spotify-api-0.0.22.tgz#762707c4ad323e9d1c4e75e85742ad50e1666942"
   integrity sha512-oZLKiI6Fck/BGd0QdmIdJCY351xQfRkfpx2Q23jIntL3YQx85vScYuFJMK81/NoSK9m7HYOl2DW4A9WomDuJOA==
 
-"@types/spotify-web-api-node@^5.0.7":
-  version "5.0.7"
-  resolved "https://registry.yarnpkg.com/@types/spotify-web-api-node/-/spotify-web-api-node-5.0.7.tgz#de5cb576781e0aaa38568744dfb891c86a7938ee"
-  integrity sha512-8ajd4xS3+l4Zau1OyggPv7DjeSFEIGYvG5Q8PbbBMKiaRFD53IkcvU4Bx4Ijyzw+l+Kc09L5L+MXRj0wyVLx9Q==
+"@types/spotify-web-api-node@^5.0.8":
+  version "5.0.8"
+  resolved "https://registry.yarnpkg.com/@types/spotify-web-api-node/-/spotify-web-api-node-5.0.8.tgz#0d418d8c0c388aa34914578ed2d4f4933ec276d2"
+  integrity sha512-zh4t3qQGHPN2JVpA653uaPktS/KYE+9c6V6bKc1td8/TYoLGsKkMMDTqRET7MV45SlO5qpaQMnpHdwl1cScOOA==
   dependencies:
     "@types/spotify-api" "*"
 
