@@ -10,7 +10,7 @@
     "format": "prettier src/**/* -w"
   },
   "dependencies": {
-    "next": "13.5.6",
+    "next": "14.2.14",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "spotify-web-api-node": "^5.0.2"
